@@ -1,0 +1,5 @@
+﻿  Lab 4.cpp
+D:\LNU\4 Семестер\Пр. стат. та ймов. пр\Lab 4\Lab 4.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\LNU\4 Семестер\Пр. стат. та ймов. пр\Lab 4\Lab 4.cpp(60,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\LNU\4 Семестер\Пр. стат. та ймов. пр\Lab 4\Lab 4.cpp(76,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab 4.vcxproj -> D:\LNU\4 Семестер\Пр. стат. та ймов. пр\Lab 4\x64\Debug\Lab 4.exe
